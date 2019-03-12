@@ -1,0 +1,21 @@
+{
+    "name": "claudioalbertotheme",
+    "displayName": "ClaudioAlbertoTheme",
+    "description": "This is my theme personal for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Claudio Alberto UI",
+                "uiTheme": "vs",
+                "path": "./themes/Claudio Alberto UI-color-theme.json"
+            }
+        ]
+    }
+}
